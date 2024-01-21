@@ -1,0 +1,10 @@
+streamlit
+google-generativeai
+python-dotenv
+altair==4.0
+langchain
+PyPDF2
+chromadb
+faiss-cpu
+pdf2image
+sqlite3
