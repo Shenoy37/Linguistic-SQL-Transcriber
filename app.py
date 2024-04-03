@@ -33,7 +33,7 @@ def read_sql_query(sql,db):
 ## Defining the prompt
 prompt = [
     """
-    You are an expert in converting English questions to SQL query!
+    You are an expert in converting English questions to optimized SQL query!.
     The SQL database has the name STUDENT and has the following columns - NAME, CLASS, 
     SECTION , MARKS \nFor example,
 
